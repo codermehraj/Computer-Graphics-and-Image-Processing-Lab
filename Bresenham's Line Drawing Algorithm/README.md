@@ -1,6 +1,6 @@
 ## Assignment 1
 
-# **Bresenham's Line Drawing Algorithm**
+# [**Bresenham's Line Drawing Algorithm**](https://github.com/codermehraj/Computer-Graphics-and-Image-Processing-Lab/blob/main/Bresenham's%20Line%20Drawing%20Algorithm/bresenham.ipynb)
 
 This algorithm is used to draw a line between two points on a grid. This is very optimized for the following reasons:
 - It does not do floating point operation
@@ -23,5 +23,6 @@ fixes For `slope > 1`:
 - then we can use the above algorithm to get the points. 
 - lastly we can reswap (x,y) with (y,x) to get the proper result.
 
+<br>
 
-## TO CHECK THE OUTPUT AND DESCRIPTION PLEASE CHECK THE bresenham.ipynb notebook
+## [TO CHECK THE OUTPUT AND DESCRIPTION PLEASE CHECK THE bresenham.ipynb notebook](https://github.com/codermehraj/Computer-Graphics-and-Image-Processing-Lab/blob/main/Bresenham's%20Line%20Drawing%20Algorithm/bresenham.ipynb)
